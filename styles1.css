@@ -1,0 +1,33 @@
+/* Заголовки */
+h1 {
+    font-size: 2.5em;
+    font-weight: bold;
+  }
+  
+  h2 {
+    font-size: 2em;
+    font-weight: bold;
+  }
+  
+  h3 {
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+  
+  /* Списки */
+  ol {
+    margin-left: 20px;
+    padding-left: 20px;
+  }
+  
+  /* Полужирный текст */
+  b {
+    font-weight: bold;
+  }
+  
+  /* Курсив */
+  i {
+    font-style: italic;
+  }
+  
+  
